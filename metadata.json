@@ -1,0 +1,6 @@
+{
+  "name": "LIVING RIVER WATCH",
+  "description": "Real-time river telemetry, thermal discharge compliance, ecological zone mapping, and community incident reporting dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
